@@ -58,8 +58,8 @@ CEG II 704,-325,-300,doric,coan,kos,kos,27.289914,36.893601,funerary,κήδεα
 CEG II 704,-325,-300,doric,coan,kos,kos,27.289914,36.893601,funerary,σῆς,0,0,mixed hexameter/pentameter
 CEG II 704,-325,-300,doric,coan,kos,kos,27.289914,36.893601,funerary,ἡλικίας,0,0,mixed hexameter/pentameter
 CEG II 704,-325,-300,doric,coan,kos,kos,27.289914,36.893601,funerary,ἡλικίας,1,1,mixed hexameter/pentameter
-CEG II 705,-399,-300,doric,coan,kos,Kephalos,27.13738278,36.82289541,funerary,ἀρετήν,0,0,elegiac
-CEG II 705,-399,-300,doric,coan,kos,Kephalos,27.13738278,36.82289541,funerary,ἐπέστησαμ,0,0,elegiac
+CEG II 705,-399,-300,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἀρετήν,0,0,elegiac
+CEG II 705,-399,-300,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἐπέστησαμ,0,0,elegiac
 CEG II 706,-325,-300,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Ἡρακλείδης,0,0,dubious
 CEG II 706,-325,-300,doric,coan,kos,platani,27.13738278,36.82289541,funerary,μνῆμα,0,0,dubious
 CEG II 706,-325,-300,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἐπέστησεν,0,0,dubious
@@ -283,8 +283,8 @@ Der-Lut 2011,-299,-100,doric,rhodian,rhodos,rhodos,28.227611,36.443113,erotic,σ
 "IG XII,4,3,2147",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,λατρείας,1,1,iambic trimeter
 "IG XII,4,3,2147",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,ἔθνῃσκες,0,0,iambic trimeter
 "IG XII,4,3,2147",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,τάνδ᾿,1,0,iambic trimeter
-"IG XII,4,3,2257",-99,-1,doric,coan,kos,marmaroto,27.13738278,36.82289541,funerary,Ἀΐδας,1,0,elegiac
-"IG XII,4,3,2257",-99,-1,doric,coan,kos,marmaroto,27.13738278,36.82289541,funerary,ἀκρήβην,0,0,elegiac
+"IG XII,4,3,2257",-99,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Ἀΐδας,1,0,elegiac
+"IG XII,4,3,2257",-99,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἀκρήβην,0,0,elegiac
 "IG XII,4,3,2498",-150,-100,doric,coan,kos,na,27.289914,36.893601,funerary,ἁ,1,0,elegiac
 "IG XII,4,3,2528",-99,-1,doric,coan,kos,kos,27.289914,36.893601,funerary,βιοτὰν,1,0,elegiac
 "IG XII,4,3,2528",-99,-1,doric,coan,kos,kos,27.289914,36.893601,funerary,ὀλίαν̣,1,0,elegiac
@@ -305,34 +305,34 @@ Der-Lut 2011,-299,-100,doric,rhodian,rhodos,rhodos,28.227611,36.443113,erotic,σ
 "IG XII,4,3,2946",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,ἡ,0,0,elegiac
 "IG XII,4,3,2946",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,ἡ,0,0,elegiac
 "IG XII,4,3,2946",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,αὐτὴ,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,πέτρη,0,1,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,πηγῆς,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,πηγῆς,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,Ἀΐδηι,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,ἀείμνηστον,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,σήν,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,ἧς,0,0,elegiac
-"IG XII,4,3,2947",-199,-1,doric,coan,kos,diapeli,27.13738278,36.82289541,funerary,τηλίκον,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,πέτρη,0,1,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,πηγῆς,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,πηγῆς,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Ἀΐδηι,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἀείμνηστον,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,σήν,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἧς,0,0,elegiac
+"IG XII,4,3,2947",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,τηλίκον,0,0,elegiac
 "IG XII,4,3,2950",-99,-1,doric,coan,kos,kos,27.289914,36.893601,funerary,Ἅδης,0,0,elegiac
 "IG XII,4,3,2950",-99,-1,doric,coan,kos,kos,27.289914,36.893601,funerary,Φερσεφόνης,0,0,elegiac
 "IG XII,4,3,3025",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,χρηστ̣ὸς,0,0,iambic trimeter
 "IG XII,4,3,3025",-199,-100,doric,coan,kos,kos,27.289914,36.893601,funerary,σήματος,0,0,iambic trimeter
-"IG XII,4,4,3080",-199,-1,doric,coan,kos,phyxa,27.13738278,36.82289541,funerary,ἀγαθὴν,0,0,mixed hexameter/pentameter
-"IG XII,4,4,3080",-199,-1,doric,coan,kos,phyxa,27.13738278,36.82289541,funerary,π̣οθεινὴν,0,0,mixed hexameter/pentameter
-"IG XII,4,4,3080",-199,-1,doric,coan,kos,phyxa,27.13738278,36.82289541,funerary,πάτρα,1,1,mixed hexameter/pentameter
-"IG XII,4,4,3080",-199,-1,doric,coan,kos,phyxa,27.13738278,36.82289541,funerary,τὴν,0,0,mixed hexameter/pentameter
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,Θευδότα,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,Ἀΐδας,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,ἀκμάν,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,γενέτας,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,Περσεφόνας,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,γηραλέην,0,1,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,ἁ,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,μάτηρ,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,ἁρπάξας,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,σὰν,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,ἐμάρανεν,1,0,elegiac
-"IG XII,4,4,3291",-199,-1,doric,coan,kos,isthmia,27.13738278,36.82289541,funerary,ζαλωτὸν,1,0,elegiac
+"IG XII,4,4,3080",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἀγαθὴν,0,0,mixed hexameter/pentameter
+"IG XII,4,4,3080",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,π̣οθεινὴν,0,0,mixed hexameter/pentameter
+"IG XII,4,4,3080",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,πάτρα,1,1,mixed hexameter/pentameter
+"IG XII,4,4,3080",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,τὴν,0,0,mixed hexameter/pentameter
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Θευδότα,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Ἀΐδας,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἀκμάν,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,γενέτας,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,Περσεφόνας,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,γηραλέην,0,1,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἁ,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,μάτηρ,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἁρπάξας,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,σὰν,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ἐμάρανεν,1,0,elegiac
+"IG XII,4,4,3291",-199,-1,doric,coan,kos,platani,27.13738278,36.82289541,funerary,ζαλωτὸν,1,0,elegiac
 "IG XII,4,5 4091.II",-260,-260,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,honorary,βουλᾶι,1,0,elegiac
 "IG XII,4,5 4091.II",-260,-260,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,honorary,χρυσέας,1,1,elegiac
 "IG XII,4,5 4091.II",-260,-260,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,honorary,δικ̣αιοσύ̣ν̣α̣ς̣,1,0,elegiac
@@ -361,8 +361,8 @@ Der-Lut 2011,-299,-100,doric,rhodian,rhodos,rhodos,28.227611,36.443113,erotic,σ
 "IG XII,4,5,4215",-199,-100,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,funerary,ἅρπασεν,1,0,elegiac
 "IG XII,4,5,4215",-199,-100,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,funerary,ἁ,1,0,elegiac
 "IG XII,4,5,4215",-199,-100,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,funerary,ματρὶ,1,0,elegiac
-"IG XII,4,5,4201",-299,-200,doric,coan,kalymna,panormos,26.97181983,36.99839148,funerary,αἰχμῆι,0,0,elegiac
-"IG XII,4,5,4201",-299,-200,doric,coan,kalymna,panormos,26.97181983,36.99839148,funerary,Ἄρης,0,0,elegiac
+"IG XII,4,5,4201",-299,-200,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,funerary,αἰχμῆι,0,0,elegiac
+"IG XII,4,5,4201",-299,-200,doric,coan,kalymna,kalymnos,26.97181983,36.99839148,funerary,Ἄρης,0,0,elegiac
 "IG XII,suppl.152",-99,-1,doric,astypalaean,astypalaea,na,26.36489173,36.57888616,funerary,μάτην,0,0,elegiac
 "IG XII,suppl.152",-99,-1,doric,astypalaean,astypalaea,na,26.36489173,36.57888616,funerary,μνήμης,0,0,elegiac
 "IG XII,suppl.152",-99,-1,doric,astypalaean,astypalaea,na,26.36489173,36.57888616,funerary,μνήμης,0,0,elegiac
@@ -775,10 +775,10 @@ Tit.Cam. 13,-299,-275,doric,rhodian,rhodos,kamiros,27.9212351,36.33611799,votive
 03/02/58 ephesos,-25,-1,attic-ionic,east ionic,asia minor,ephesos,27.340307,37.9407625,funerary,ἧψ’,0,0,elegiac
 03/02/58 ephesos,-25,-1,attic-ionic,east ionic,asia minor,ephesos,27.340307,37.9407625,funerary,ἃν,1,0,elegiac
 03/02/58 ephesos,-25,-1,attic-ionic,east ionic,asia minor,ephesos,27.340307,37.9407625,funerary,ἁ,1,0,elegiac
-03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,klaros,27.1483085,38.108253,honorary,πάλης,0,0,elegiac
-03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,klaros,27.1483085,38.108253,honorary,ἔστησεν,0,0,elegiac
-03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,klaros,27.1483085,38.108253,honorary,θνητὸς,0,0,elegiac
-03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,klaros,27.1483085,38.108253,honorary,ἣν,0,0,elegiac
+03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,notion,27.1483085,38.108253,honorary,πάλης,0,0,elegiac
+03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,notion,27.1483085,38.108253,honorary,ἔστησεν,0,0,elegiac
+03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,notion,27.1483085,38.108253,honorary,θνητὸς,0,0,elegiac
+03/05/01 klaros/Kolophon,-320,-200,attic-ionic,east ionic,asia minor,notion,27.1483085,38.108253,honorary,ἣν,0,0,elegiac
 03/06/03 teos,-199,-1,attic-ionic,east ionic,asia minor,teos,26.785014,38.177262,funerary,ψυχὰς,1,0,elegiac
 03/06/03 teos,-199,-1,attic-ionic,east ionic,asia minor,teos,26.785014,38.177262,funerary,ἀποπταμένας,0,0,elegiac
 03/06/03 teos,-199,-1,attic-ionic,east ionic,asia minor,teos,26.785014,38.177262,funerary,νᾶσον,1,0,elegiac
@@ -1845,10 +1845,10 @@ CEG II 718,-399,-350,attic-ionic,koine,egypt,el giza,31.2118,29.987,funerary,ο�
 CEG II 466,-375,-325,attic-ionic,attic,attica,acropolis,23.7264385,37.97164709,funerary,ἐλευθερίας,1,1,hexameter
 CEG II 466,-375,-325,attic-ionic,attic,attica,acropolis,23.7264385,37.97164709,funerary,θνηι[σκον,0,0,hexameter
 CEG II 466,-375,-325,attic-ionic,attic,attica,acropolis,23.7264385,37.97164709,funerary,ναυμαχίας,1,1,hexameter
-CEG II 467,-338,-338,attic-ionic,attic,attica,olympieion,23.73310697,37.96943319,funerary,θηντοῖς,0,0,elegiac
-CEG II 467,-338,-338,attic-ionic,attic,attica,olympieion,23.73310697,37.96943319,funerary,ἡμετέρων,0,0,elegiac
-CEG II 467,-338,-338,attic-ionic,attic,attica,olympieion,23.73310697,37.96943319,funerary,ἱεράν,1,1,elegiac
-CEG II 467,-338,-338,attic-ionic,attic,attica,olympieion,23.73310697,37.96943319,funerary,θνήικσομεν,0,0,elegiac
+CEG II 467,-338,-338,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,θηντοῖς,0,0,elegiac
+CEG II 467,-338,-338,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,ἡμετέρων,0,0,elegiac
+CEG II 467,-338,-338,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,ἱεράν,1,1,elegiac
+CEG II 467,-338,-338,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,θνήικσομεν,0,0,elegiac
 CEG II 468,-365,-350,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,πάσηι,0,0,elegiac
 CEG II 469,-399,-375,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,κερκυραι,1,1,elegiac
 CEG II 469,-399,-375,attic-ionic,attic,attica,kerameikos,23.73310697,37.96943319,funerary,συντυχίαν,1,1,elegiac
@@ -2550,8 +2550,8 @@ CEG II 827,-325,-300,arcado-cypriot,arcadian,arcadia,olympia,21.63084369,37.6386
 CEG II 869,-325,-306,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,ἅδε,1,0,elegiac
 CEG II 869,-325,-306,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,τεᾶι,1,1,elegiac
 CEG II 869,-325,-306,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,ὁρμᾶι,1,0,elegiac
-CEG II 872,-399,-306,arcado-cypriot,cypriot,cyprus,ledroi,33.13708095,34.712264,votive,Κυπριαι,1,1,elegiac
-CEG II 872,-399,-306,arcado-cypriot,cypriot,cyprus,ledroi,33.13708095,34.712264,votive,τήνδε,0,0,elegiac
+CEG II 872,-399,-306,arcado-cypriot,cypriot,cyprus,amathous,33.13708095,34.712264,votive,Κυπριαι,1,1,elegiac
+CEG II 872,-399,-306,arcado-cypriot,cypriot,cyprus,amathous,33.13708095,34.712264,votive,τήνδε,0,0,elegiac
 CEG II 873,-325,-275,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,Παφιαι,1,1,elegiac
 CEG II 873,-325,-275,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,τάνδε,1,0,elegiac
 CEG II 873,-325,-275,arcado-cypriot,cypriot,cyprus,paphos (palai),32.579086,34.7053255,honorary,μ]νᾶμα,1,0,elegiac
